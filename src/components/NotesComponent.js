@@ -26,7 +26,7 @@ export const Notes = () =>{
     return(
         <div className="container">
             <div className="row">
-                <div className="col-12 text-center py-3" style={{"background":"black","color":"white"}}>
+                <div className="col-12 text-center py-3">
                     <h1>Your Notes</h1>
                 </div>
             </div>
